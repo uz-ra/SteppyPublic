@@ -1,0 +1,18 @@
+.theos/
+packages/
+.DS_Store
+Tweak/bu/
+Tweak/Tweak.mm
+common/bu/
+bu/
+Tweak.mm
+Loader/bu
+Loader/theos/
+extracted_core_deb/
+extracted_helper_deb/
+Loader/Encrypted.h
+libLLVMHanabiDeps.dylib
+libLLVMHanabi.dylib
+venv/
+Legacy.xm
+Tweak copy.xm

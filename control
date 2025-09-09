@@ -1,0 +1,9 @@
+Package: jp.uzra.steppy
+Name: Steppy
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Spoof your steps!
+Maintainer: uz.ra
+Author: uz.ra
+Section: Tweaks
