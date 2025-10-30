@@ -28,7 +28,7 @@ include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = Steppy
 
-Steppy_FILES = Flutter.xm HealthKitHook.xm UzUtil/UzLog/UzLog.mm
+Steppy_FILES = Flutter.xm HealthKitHook.xm CoreMotionHook.xm UzUtil/UzLog/UzLog.mm
 Steppy_CFLAGS = -fobjc-arc  -std=c++11
 Steppy_CXXFLAGS = -std=c++11
 
